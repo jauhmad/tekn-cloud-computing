@@ -19,7 +19,7 @@
 
 1. Unduh Docker for Windows di https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe dan instal
 
-![Gambar 1](skrinsut/gambar-07-01)
+![Gambar 1](skrinsut/gambar-07-01.jpg)
 
 2. Update dan install WSL 2 Linux Kernel di https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
