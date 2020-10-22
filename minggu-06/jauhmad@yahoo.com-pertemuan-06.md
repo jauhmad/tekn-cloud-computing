@@ -51,23 +51,43 @@ C.	Install MongoDB Community Server
 
 **Tugas**
 
-Dengan menggunakan fasilitas demo, pilihlah E-Commerce webstore atau backend ERP. Setelah itu, buatlah panduan dasar pemakaiannya. Anda bebas memilih tema (misal - panduan berbelanja di Webstore E-Commerce). Gunakan kreativitas anda.
-
+Buat 2 program menggunakan salah satu pustaka yang ada di implementasi GraphQL di Go untuk membaca data dari MySQL serta MongoDB dan memberikan respon GraphQL, 1 program untuk MySQL, 1 program untuk MongoDB.
+ 
 **Penyelesaian**
-
- ![Gambar 5](skrinsut/gambar-06-5.png)
-
+1.	Go-MySQL
+Membuat database MySQL dengan nama sim_sinonaku2db, tabel pegawai.
+![Gambar 5](skrinsut/gambar-06-5.png)
  
 
-Fasilitas demo di-disable
+Membuat file db.go
+![Gambar 6](skrinsut/gambar-06-6.png)
+ 
+
+Menjalankan go.db
+![Gambar 7](skrinsut/gambar-06-7.png)
+![Gambar 8](skrinsut/gambar-06-8.png)
+ 
+ 
 
 
+
+
+2.	Go-MongoDB
+Unduh driver MongoDB
+![Gambar 9](skrinsut/gambar-06-9.png)
+ 
+
+Membuat file mongodb.go
+![Gambar 10](skrinsut/gambar-06-10.png)
+![Gambar 11](skrinsut/gambar-06-11.png)
+ 
+ 
 
  
 
 **KESMIPULAN**
 
-Apache OFBiz adalah produk open source yang dirancang khusus untuk otomatisasi proses perusahaan yang mencakup komponen kerangka kerja dan aplikasi bisnis untuk ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), E-Business / E-Commerce, SCM (Supply Chain Management), MRP (Manufacturing Resource Planning), MMS/EAM (Maintenance Management System/Enterprise Asset Management).
-
+Dalam praktikum ini mengatur koneksi ke Mongodb dan kemudian melakukan beberapa metode sederhana ke database dan mengambil data dari collection yang retrieve ke dalam sebuah struct atau array dari struct.
 
 _________________________
+
