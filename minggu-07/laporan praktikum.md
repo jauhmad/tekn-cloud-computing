@@ -17,15 +17,19 @@
 
 ## Pembahasan Hasil Praktikum
 
-Unduh Docker for Windows di https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe
+1. Unduh Docker for Windows di https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe dan instal
 
-Install Docker
+2. Update dan install WSL 2 Linux Kernel di https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
-Tes Versi Docker
+3. Tes Versi Docker
 
-Tes Hasil Instalasi Docker
+4. Tes Hasil Instalasi Docker
 
-Unduh contoh proyek node-bulletin-board
+5. Unduh contoh proyek node-bulletin-board dengan Git
+
+6. Membangun buletin board image
+
+
 
 Membangun dan menguji image
 
