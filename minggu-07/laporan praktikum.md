@@ -1,3 +1,4 @@
+https://github.com/jauhmad/tekn-cloud-computing/blob/master/minggu-07/laporan%20praktikum.md
 # Laporan Praktikum Teknologi Teknologi Cloud Computing - Minggu 07
 
 ## Materi
