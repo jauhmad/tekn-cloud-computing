@@ -19,5 +19,7 @@ https://github.com/jauhmad/tekn-cloud-computing/blob/master/minggu-08/laporan%20
 ## Pembahasan Hasil Praktikum
 
 **Getting Started - Docker Compose**
+1. Membuat direktori project
+
 
 **Diagram keterkaitan Docker image, Container, dockerd, docker client, docker compose, docker swarm**
