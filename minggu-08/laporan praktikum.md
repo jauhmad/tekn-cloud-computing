@@ -89,3 +89,5 @@ https://github.com/jauhmad/tekn-cloud-computing/blob/master/minggu-08/laporan%20
 
 
 **Diagram keterkaitan Docker image, Container, dockerd, docker client, docker compose, docker swarm**
+![Gambar 16](skrinsut/High-level-overview-of-Docker-architecture.png)
+
