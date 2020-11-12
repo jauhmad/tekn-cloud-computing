@@ -59,6 +59,32 @@ https://github.com/jauhmad/tekn-cloud-computing/blob/master/minggu-08/laporan%20
 
 ![Gambar 10](skrinsut/gambar_10.jpg)
 
+11. Edit file docker-compose.yml yang sudah ada
+
+![Gambar 11](skrinsut/gambar_11.jpg)
+
+12. Re-build app
+
+![Gambar 12](skrinsut/gambar_12.jpg)
+
+13. Cek pesan Hello World di browser, setelah di refresh, angka akan bertambah
+
+![Gambar 13](skrinsut/gambar_13.jpg)
+
+14. Mengubah pesan pada app.py
+
+![Gambar 14](skrinsut/gambar_14.jpg)
+
+15. Refresh browser
+
+![Gambar 15](skrinsut/gambar_15.jpg)
+
+
+
+
+
+
+
 
 
 
