@@ -211,24 +211,43 @@ Untuk memverifikasi setiap instalasi Docker yang dilengkapi dengan jaringan pra-
 
 38. Ping 10.0.0.3
 
+![Gambar 38](skrinsut/gambar_38.jpg)
 
 39. Test service discovery.
 
+![Gambar 39](skrinsut/gambar_39.jpg)
+
 40. Try and ping the “myservice” name from within the container by running ping -c5 myservice.
+
+![Gambar 40](skrinsut/gambar_40.jpg)
 
 41. Type the exit command to leave the exec container session and return to the shell prompt of your Docker host.
 
+![Gambar 41](skrinsut/gambar_41.jpg)
+
 42. Inspect the configuration of the “myservice” service
 
-42. Remove the service called myservice.
+![Gambar 42](skrinsut/gambar_42.jpg)
 
-43. Get a list of running containers.
+43. Remove the service called myservice.
 
-44. Gunakan docker kill <CONTAINER ID ...> untuk menghentikan contniner ubunut dan nginx
+![Gambar 43](skrinsut/gambar_43.jpg)
 
-45. Hilangkan node1 dari Swarm
+44. Get a list of running containers.
 
-46. Hilangkan node2 dari Swarm
+![Gambar 44](skrinsut/gambar_44.jpg)
+
+45. Gunakan docker kill <CONTAINER ID ...> untuk menghentikan contniner ubunut dan nginx
+  
+![Gambar 45](skrinsut/gambar_45.jpg)
+
+46. Hilangkan node1 dari Swarm
+
+![Gambar 46](skrinsut/gambar_46.jpg)
+
+47. Hilangkan node2 dari Swarm
+
+![Gambar 47](skrinsut/gambar_47.jpg)
 
 47. Selesai
 
